@@ -1,2 +1,5 @@
 # hello-world
-the first repository, according to the tutorial.
+The first repository, according to the tutorial.
+
+This is Dawinia Lo, I am trying to make a change and commit it.
+bala bala bala...
